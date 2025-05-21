@@ -39,8 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit1004&" alt="sumit1004" /></p>
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/sumit1004/sumit1004/blob/output/github-contribution-grid-snake.svg)
 
 
