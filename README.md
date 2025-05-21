@@ -41,5 +41,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/sumit1004//blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sumit1004/sumit1004/blob/output/github-contribution-grid-snake.svg)
+
 
